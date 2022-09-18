@@ -15,6 +15,7 @@ module.exports = {
         './resources/views/**/*.blade.php',
         "./src/**/*.{php,html,js,jsx,ts,tsx,vue}",
         "./node_modules/@left4code/tw-starter/**/*.js",
+        "./resources/**/*.{php,html,js,jsx,ts,tsx,vue}",
     ],
     darkMode: "class",
     theme: {
