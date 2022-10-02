@@ -33,7 +33,6 @@
             <div class="content">
                 {{ $slot }}
             </div>
-
         </div>
 
         @stack('modals')

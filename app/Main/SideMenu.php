@@ -22,7 +22,7 @@ class SideMenu{
                 'sub_menu'=>[
                     'reg-delito' => [
                         'icon' => 'edit',
-                        'route_name' => 'dashboard',
+                        'route_name' => 'form-delito',
                         'params' => [
                             'layout' => 'side-menu'
                         ],
@@ -30,7 +30,7 @@ class SideMenu{
                     ],
                     'reg-individuo' => [
                         'icon' => 'edit',
-                        'route_name' => 'dashboard',
+                        'route_name' => 'form-individuo',
                         'params' => [
                             'layout' => 'side-menu'
                         ],
